@@ -4,6 +4,12 @@ __pycache__/
 *$py.class
 *.pyc
 
+# ML & Model Weights (Auto-downloaded on runtime)
+*.pt
+*.onnx
+*.pkl
+*.bin
+
 # Environment & Temp
 .env
 .venv/
@@ -12,6 +18,7 @@ venv/
 ENV/
 *.tmp
 temp_generated.mid
+temp_generated.wav
 
 # Streamlit
 .streamlit/
