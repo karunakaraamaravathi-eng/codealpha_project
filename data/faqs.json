@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "category": "Artificial Intelligence",
+    "question": "What is Artificial Intelligence (AI)?",
+    "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines programmed to think, learn, reason, and solve problems like humans.",
+    "keywords": ["ai", "artificial intelligence", "definition", "what is ai"]
+  },
+  {
+    "id": 2,
+    "category": "Machine Learning",
+    "question": "What is the difference between Supervised and Unsupervised Learning?",
+    "answer": "Supervised Learning trains models on labeled datasets where the desired output is known (e.g., classification, regression). Unsupervised Learning finds hidden patterns and structures in unlabeled data (e.g., clustering, dimensionality reduction).",
+    "keywords": ["supervised", "unsupervised", "difference", "machine learning", "labels"]
+  },
+  {
+    "id": 3,
+    "category": "Deep Learning",
+    "question": "What is a Neural Network?",
+    "answer": "A Neural Network is a computational model inspired by the human biological brain, consisting of interconnected layers of artificial neurons that process data and learn intricate representations.",
+    "keywords": ["neural network", "deep learning", "neurons", "layers", "ann"]
+  },
+  {
+    "id": 4,
+    "category": "Computer Vision",
+    "question": "How does YOLO (You Only Look Once) object detection work?",
+    "answer": "YOLO reframes object detection as a single regression problem, passing the entire image through a convolutional neural network once to predict bounding box coordinates and class probabilities simultaneously in real time.",
+    "keywords": ["yolo", "object detection", "computer vision", "real time", "bounding box"]
+  },
+  {
+    "id": 5,
+    "category": "Natural Language Processing",
+    "question": "What is TF-IDF and how is it used?",
+    "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a statistical measure that evaluates how important a word is to a document within a collection or corpus, penalizing frequently occurring words across all documents.",
+    "keywords": ["tf-idf", "nlp", "term frequency", "vectorizer", "text processing"]
+  },
+  {
+    "id": 6,
+    "category": "Natural Language Processing",
+    "question": "What is Cosine Similarity in NLP?",
+    "answer": "Cosine Similarity measures the cosine of the angle between two multi-dimensional vectors. In NLP, it quantifies the similarity in direction and semantic content between two text embeddings regardless of document length.",
+    "keywords": ["cosine similarity", "vector distance", "nlp", "semantic similarity"]
+  },
+  {
+    "id": 7,
+    "category": "AI Music Generation",
+    "question": "How does AI generate music using symbolic representations like MIDI?",
+    "answer": "AI generates music by modeling musical elements (pitches, chords, durations, velocities) as discrete symbolic sequences using statistical Markov models, RNNs, LSTMs, or Transformers, and decoding them into MIDI files.",
+    "keywords": ["music generation", "midi", "lstm", "music21", "composition"]
+  },
+  {
+    "id": 8,
+    "category": "CodeAlpha Internship",
+    "question": "What are the key tasks in the CodeAlpha AI Internship?",
+    "answer": "The CodeAlpha AI Internship includes 4 core projects: 1) Language Translation Tool, 2) FAQ Chatbot with NLP, 3) AI Music Generation, and 4) Real-Time Object Detection & Tracking.",
+    "keywords": ["codealpha", "internship", "tasks", "curriculum", "projects"]
+  },
+  {
+    "id": 9,
+    "category": "CodeAlpha Internship",
+    "question": "How do I submit my completed CodeAlpha internship project?",
+    "answer": "To submit your project: 1. Push your complete code to a GitHub repository named 'CodeAlpha_ProjectName'. 2. Record a brief video demo and post it on LinkedIn tagging @CodeAlpha. 3. Submit the repository and post link via the official submission form.",
+    "keywords": ["submission", "github", "linkedin", "codealpha submission", "form"]
+  },
+  {
+    "id": 10,
+    "category": "CodeAlpha Internship",
+    "question": "What are the eligibility criteria for the internship certificate?",
+    "answer": "To be eligible for the QR-verified completion certificate, participants must complete a minimum of 2 or 3 tasks from their domain and submit the official form within the designated timeline.",
+    "keywords": ["certificate", "criteria", "eligibility", "completion"]
+  },
+  {
+    "id": 11,
+    "category": "Machine Learning",
+    "question": "What is Overfitting and how can it be prevented?",
+    "answer": "Overfitting occurs when a machine learning model learns noise and specific details of the training data too well, failing to generalize to unseen test data. It can be mitigated using regularization (L1/L2, Dropout), cross-validation, data augmentation, and early stopping.",
+    "keywords": ["overfitting", "regularization", "generalization", "dropout"]
+  },
+  {
+    "id": 12,
+    "category": "Computer Vision",
+    "question": "What is the difference between Object Detection and Object Tracking?",
+    "answer": "Object Detection identifies and locates objects within a single static frame. Object Tracking (e.g., SORT, DeepSORT, ByteTrack) maintains continuous identities (IDs) of detected objects across successive frames in a video sequence.",
+    "keywords": ["tracking", "detection", "difference", "sort", "deepsort", "bytetrack"]
+  }
+]
